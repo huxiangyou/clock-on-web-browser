@@ -9,7 +9,7 @@ A very simple clock shown on your web browser.
 
 Coded by Hu Xiangyou on 17 April, 2018
 
-[![clock icon](https://twemoji.maxcdn.com/16x16/1f552.png)](#)Icon from [**Twemoji**](twemoji.maxcdn.com), [open sourced](https://blog.twitter.com/developer/en_us/a/2014/open-sourcing-twitter-emoji-for-everyone.html), under CC BY 4.0.
+[![clock icon](https://twemoji.maxcdn.com/16x16/1f552.png)](#)Icon from [**Twemoji**](https://twemoji.maxcdn.com), [open sourced](https://blog.twitter.com/developer/en_us/a/2014/open-sourcing-twitter-emoji-for-everyone.html), under CC BY 4.0.
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 **CC BY 4.0**. Feel free to copy, adapt, use, and share, *as long as you don't forget my name*.
