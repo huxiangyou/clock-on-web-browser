@@ -1,9 +1,9 @@
 # clock on web browser
 
-[html 5.0](https://img.shields.io/badge/html-5.0-blue.svg?style=flat)
-[xhtml 1.0](https://img.shields.io/badge/xhtml-1.0-blue.svg?style=flat)
-[css 3.0](https://img.shields.io/badge/css-3.0-blue.svg?style=flat)
-[js](https://img.shields.io/badge/js--blue.svg?style=flat)
+![html 5.0](https://img.shields.io/badge/html-5.0-blue.svg?style=flat)
+![xhtml 1.0](https://img.shields.io/badge/xhtml-1.0-blue.svg?style=flat)
+![css 3.0](https://img.shields.io/badge/css-3.0-blue.svg?style=flat)
+![js](https://img.shields.io/badge/js--blue.svg?style=flat)
 
 ![version: 1.1](https://img.shields.io/badge/version-1.1-lightgrey.svg)
 ![test: passed](https://img.shields.io/badge/tests-passed-brightgreen.svg)
