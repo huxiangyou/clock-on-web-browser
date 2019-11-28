@@ -23,14 +23,12 @@ Coded by Hu Xiangyou on 17 April, 2018
 
 Click on the `Clone and download` button. Click [`Download ZIP`](https://github.com/huxiangyou/clock-on-web-browser/archive/master.zip). Unzip the compressed file. Open `clock.html` on your browser.
 
-Do not use `http://htmlpreview.github.io/` or something, because it cannot display correctly.
+Or, go to [`https://htmlpreview.github.io`](https://htmlpreview.github.io/?https://github.com/huxiangyou/clock-on-web-browser/master/clock.html) and enjoy it directly. But some browser may not be supported.
 
 ## Issues
 
 This html page may be blocked by the Internet Explorer. When a warning comes out, click `Allow` to continue.
 
-Scroll bars may display when you use the Internet Explorer or the Microsoft Edge.
-
-If the font size does not fit your broswer, adjust the `font-size` number (in `Line 20`) and reload the page.
+If the font size does not fit your browser, adjust the `font-size` number (in `Line 20`) and reload the page.
 
 If you find any bugs or want help, ask on [Issues](https://github.com/huxiangyou/clock-on-web-browser/issues).
