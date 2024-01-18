@@ -1,16 +1,11 @@
 # clock on web browser
 
-![html 5.0](https://img.shields.io/badge/html-5.0-blue.svg?style=flat)
-![xhtml 1.0](https://img.shields.io/badge/xhtml-1.0-blue.svg?style=flat)
-![css 3.0](https://img.shields.io/badge/css-3.0-blue.svg?style=flat)
-![js](https://img.shields.io/badge/js--blue.svg?style=flat)
-
 ![version: 1.1](https://img.shields.io/badge/version-1.1-lightgrey.svg)
 ![test: passed](https://img.shields.io/badge/tests-passed-brightgreen.svg)
 
 A very simple clock shown on your web browser.
 
-Coded by Hu Xiangyou on 17 April, 2018
+Coded by Hu Xiangyou on 17 April, 2018.
 
 [![clock icon](https://twemoji.maxcdn.com/16x16/1f552.png)](#)Icon from [**Twemoji**](https://twemoji.maxcdn.com), [open sourced](https://blog.twitter.com/developer/en_us/a/2014/open-sourcing-twitter-emoji-for-everyone.html), under CC BY 4.0.
 
@@ -23,7 +18,7 @@ Coded by Hu Xiangyou on 17 April, 2018
 
 Click on the `Clone and download` button. Click [`Download ZIP`](https://github.com/huxiangyou/clock-on-web-browser/archive/master.zip). Unzip the compressed file. Open `clock.html` on your browser.
 
-Or, go to [`https://htmlpreview.github.io`](https://htmlpreview.github.io/?https://github.com/huxiangyou/clock-on-web-browser/master/clock.html) and enjoy it directly. But some browser may not be supported.
+Or, go to [`https://huxiangyou.github.io`](https://huxiangyou.github.io/clock-on-web-browser/clock.html) and enjoy it directly. But some browser may not be supported.
 
 ## Issues
 
