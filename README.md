@@ -14,6 +14,6 @@ Coded by Hu Xiangyou on January 20, 2025.
 
 ## How to use?
 
-Click on the `Clone and download` button. Click [`Download ZIP`](https://github.com/huxiangyou/clock-on-web-browser/archive/master.zip). Unzip the compressed file. Open `clock.html` on your browser.
+Click on the `Code` button. Click [`Download ZIP`](https://github.com/huxiangyou/clock-on-web-browser/archive/refs/heads/master.zip). Unzip the compressed file. Open `clock.html` on your browser.
 
 Or, go to [`https://huxiangyou.github.io`](https://huxiangyou.github.io/clock-on-web-browser/clock.html) and enjoy it directly.
